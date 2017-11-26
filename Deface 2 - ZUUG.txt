@@ -1,0 +1,51 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+ 
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"ed596ec31a7dd8158e7ae95b62cf5d4c",petok:"09c7a94532766ecc66de8948beeeb3c3534ae689-1477848832-1800",zone:"pagebin.com",rocket:"a",apps:{}}];document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js"><'+'\/script>');}}catch(e){};
+//]]>
+</script>
+<script type="text/rocketscript"></script>
+<title>./DEFACE</title>
+</head>
+<body onload="(function(a){window.CloudFlare &amp;&amp; window.CloudFlare.push(function(b){b([&quot;cloudflare/rocket&quot;],function(c){c.push(function(){(function(){type_text()}).call(a)})})})})(this);" style="background-color: rgb(0, 0, 0); color: rgb(153, 0, 0); background-image: url(&quot;OF DPC&quot;);" alink="#000000" link="#0000cc" vlink="#000066">
+<script type="text/rocketscript"> alert("!! SORRY ADMIN MORE I PRACTICE ./DEFACEMENT !! ")</script>
+<center><br>
+<script language="Javascript" type="text/rocketscript">
+<!--
+var tl=new Array("THAT SHIT WAS INVADED BY ZUUG",
+"YOU SECURITY SUCKS.",
+"SMELL MY BAG",
+"FUCK YOU ADMIN")
+var speed=60;
+var index=0; text_pos=0;
+var str_length=tl[0].length;
+var contents, row;
+function type_text()
+{
+contents='';
+row=Math.max(0,index-20);
+while(row<index)
+contents += tl[row++] + 'rn';
+document.forms[0].elements[0].value = contents + tl[index].substring(0,text_pos) + "_";
+if(text_pos++==str_length)
+{
+text_pos=0;
+index++;
+if(index!=tl.length)
+{
+str_length=tl[index].length;
+setTimeout("type_text()",1500);
+}
+} else
+setTimeout("type_text()",speed);
+}
+//--
+</script>
+<p align="center"><img alt="" src="http://i.imgur.com/bZOvoqC.gif"></p>
+<form><textarea style="background-color: rgb(0, 0, 0); color: rgb(0, 255, 0);" name="about" readonly="readonly" rows="18" cols="80" wrap="soft">_</textarea><br>
+</form>
+</body></html>
+

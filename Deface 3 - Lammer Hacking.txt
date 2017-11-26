@@ -1,0 +1,38 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Deface LH</title>
+<meta charset="utf-8">
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"ed596ec31a7dd8158e7ae95b62cf5d4c",petok:"18c371a46f4e5a65bc0d7fcb0ca095f3278ef254-1477849289-1800",zone:"pagebin.com",rocket:"a",apps:{}}];document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js"><'+'\/script>');}}catch(e){};
+//]]>
+</script>
+<link href='http://fonts.googleapis.com/css?family=Indie+Flower|Lobster|Iceland|VT323|Press+Start+2P|Courier+New' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" href="http://www.acsmce.com.br/wp-content/uploads/2012/11/pcc.png">
+</head>
+<body>
+<style type="text/css">body{background:url('http://25.media.tumblr.com/tumblr_la1iqw4TSG1qd8aw0o1_500.gif');background-repeat:no-repeat;background-attachment:fixed;background-size:100%;}</style>
+<center>
+<font face="Indie Flower" color="white" size="3">sua <strong>homepage</strong> foi pixada por</font>
+<br>
+<font face="VT323" color="BC062C" size="10"><strong>Lammer Hacking</strong></font>
+<br>
+<img src="http://www.acsmce.com.br/wp-content/uploads/2012/11/pcc.png">
+<br>
+<font face="Indie Flower" color="white" size="5">Equanto na Favela estiver Guerra, o Governo não terá Paz !
+<font face="Indie Flower" color="BC062C" size="5">
+<font face="Indie Flower" color="white" size="5">!
+</font></font></font>
+<hr color="BC062C">
+<br><font color="BC062C" size=4 face="Indie Flower"><strong>SALVES:</strong>
+<br>
+<center><strong>[<marquee align="center" scrollamount="5" width="560" style="width: 560px;"><font color="white" size="3"></center>Smook Security / <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="83d0eeecece8c3d1ececf7">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> / Lammer Hacking</font></marquee>]</strong><br><br>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/				UsuariosFantasmas&amp;width=300&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color=%23ffffff&amp;header=false&amp;appId=568733679822116" style="border: none; height: 258px; overflow: hidden; width: 300px;"></iframe> <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/				AnarquiaFantasma&amp;width=300&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color=%23ffffff&amp;header=false&amp;appId=568733679822116" style="border: none; height: 258px; overflow: hidden; width: 300px;"></iframe>
+<hr color="BC062C">
+<embed type="application/x-shockwave-flash" src="http://static.4shared.com/flash/player/5.10/player.swf" style="" allowscriptaccess="always" allowfullscreen="true" height="0" width="0" quality="high" flashvars="file=https://www.youtube.com/v/UUg2yj6uEK0&amp;autostart=true&amp;repeat=always">
+</center>
+</body>
+</html>

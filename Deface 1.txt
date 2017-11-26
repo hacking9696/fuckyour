@@ -1,0 +1,104 @@
+
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"ed596ec31a7dd8158e7ae95b62cf5d4c",petok:"33d26095883eb4c2bc62f66f7840070c5046db05-1477848671-1800",zone:"pagebin.com",rocket:"a",apps:{}}];document.write('<script type="text/javascript" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js"><'+'\/script>');}}catch(e){};
+//]]>
+</script>
+<link rel="SHORTCUT ICON" href="http://imageshack.us/a/img716/272/philippineflagsourcec0d.gif" type="image/x-icon">
+<meta name="Author" content="Jordan Clay #4ntr4x">
+<meta name="copyright" content="Hacktivist Philippines  ">
+<meta name="description" content="Putang inang yan">
+<meta name="keywords" content=" Jordan Clay Hacktivist Philippines #Hacked Hacked Breached Pawned 4ntr4x Anonymous Deface Defaced">
+<title>You We're P4wned Bitch!</title>
+<style type="text/css">body{background-image:url('http://imageshack.us/a/img600/9247/backgroudc.jpg');background-color:#000000;background-repeat:no-repeat;background-position:center center;color:#ffffff;}</style>
+<style id="__web-inspector-hide-shortcut-style__" type="text/css">.__web-inspector-hide-shortcut__,.__web-inspector-hide-shortcut__ *,.__web-inspector-hidebefore-shortcut__::before,.__web-inspector-hideafter-shortcut__::after{visibility:hidden!important;}</style></head><body>
+<br><br>
+<br><br>
+<br>
+<br>
+<center><img src="http://hacktivistphilippines.yn.lt/PicsArt_09-19-04.59.35.png" alt="#JordanClay" width="440" height="440"></center>
+<div align="center">
+<pre style="font: 20px/10px courier;"><b><script language="JavaScript1.2" type="text/rocketscript">
+
+var message="Jordan Clay"
+var neonbasecolor="gray"
+var neontextcolor="white"
+var neontextcolor2="#FFFFA8"
+var flashspeed=100						// speed of flashing in milliseconds
+var flashingletters=3						// number of letters flashing in neontextcolor
+var flashingletters2=1						// number of letters flashing in neontextcolor2 (0 to disable)
+var flashpause=0						// the pause between flash-cycles in milliseconds
+
+///No need to edit below this line/////
+
+var n=0
+if (document.all||document.getElementById){
+document.write('<font color="'+neonbasecolor+'">')
+for (m=0;m<message.length;m++)
+document.write('<span id="neonlight'+m+'">'+message.charAt(m)+'</span>')
+document.write('</font>')
+}
+else
+document.write(message)
+
+function crossref(number){
+var crossobj=document.all? eval("document.all.neonlight"+number) : document.getElementById("neonlight"+number)
+return crossobj
+}
+
+
+function neon(){
+
+//Change all letters to base color
+if (n==0){
+for (m=0;m<message.length;m++)
+crossref(m).style.color=neonbasecolor
+}
+//cycle through and change individual letters to neon color
+
+crossref(n).style.color=neontextcolor
+
+if (n>flashingletters-1) crossref(n-flashingletters).style.color=neontextcolor2 
+if (n>(flashingletters+flashingletters2)-1) crossref(n-flashingletters-flashingletters2).style.color=neonbasecolor
+
+
+if (n<message.length-1)
+n++
+else{
+n=0
+clearInterval(flashing)
+setTimeout("beginneon()",flashpause)
+return
+}
+}
+
+function beginneon(){
+if (document.all||document.getElementById)
+flashing=setInterval("neon()",flashspeed)
+}
+beginneon()
+
+</script><font color="gray"><span id="neonlight0" style="color: gray;"></span><span id="neonlight1" style="color: gray;"></span><span id="neonlight2" style="color: gray;"></span><span id="neonlight3" style="color: gray;"></span><span id="neonlight4" style="color: gray;"></span><span id="neonlight5" style="color: gray;"></span><span id="neonlight6" style="color: gray;"></span><span id="neonlight7" style="color: gray;"> </span><span id="neonlight8" style="color: rgb(255, 255, 168);"></span><span id="neonlight9" style="color: white;"></span><span id="neonlight10" style="color: white;"></span><span id="neonlight11" style="color: white;"></span></font></b></pre>
+</div>
+<div align="center">
+<br>
+<pre><i>"</i>Transferring a website to a paid hosting doesn't mean that you will be secured enough to avoid hacking attacks<i>"</i>
+Greetings <b>Admin</b>, please patch your website's security as soon as possible.
+This website is vulnerable to hackers and was defaced to show an alert message to you and to them.
+I am sorry for the problem that this may cause you, hope you'll understand my humble message.
+</pre>
+</div>
+<br><br>
+<div align="center">
+<pre><br><marquee>Greets: | Hacktivist Philippines | Anonymous Philippines | Blood Security Hackers | Global Security Hackers | Ghost Squad Hackers | Anonywolves Philippines | Indonesian Defacer Tersakiti Team </marquee>
+</pre>
+</div>
+<div align="center"><b>
+<blink>
+<font color="gray" face="lucida">
+</font></blink></b><font color="gray" face="lucida"></font><div style="position: fixed; bottom: 60px; left: 40px;width:120px;height:100px;"><font color="gray" face="lucida">
+<b><blink>HACKED</blink></b>
+</font>
+</div></div></body></html>
